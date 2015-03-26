@@ -1,0 +1,5 @@
+// goodbye alert
+function goodbye(){
+alert('Hidup hanya sebentar bagai mampir minum saja, ya sudah biar gak minum aja lain kali mampir lagi dunk ke blognye ane!^');
+}
+parent.window.onunload=goodbye;
